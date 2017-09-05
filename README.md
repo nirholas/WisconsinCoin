@@ -1,2 +1,5 @@
 # WisconsinCoin
+
+The WISCO token contract is deployed to [0x944c822831334ee051b9e5dc86dc764bb6f7b878](0x944c822831334ee051b9e5dc86dc764bb6f7b878)
+
 In dedication to my first day of business school I have launched WisconsinCoin, an ERC20 Ethereum token with a fixed supply of 5,790,000 coins (Wisconsin Population)
